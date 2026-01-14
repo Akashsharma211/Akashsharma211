@@ -1,69 +1,141 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=A965F7&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+%5BYour+Name%5D;I+build+cool+web+apps;I+break+production+(sometimes);Full+Stack+Developer+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" width="150" alt="Bongo Cat Typing" />
+  <h1> Hi there, I'm Akash! 👋 </h1>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Data+Science+Enthusiast;Building+Cool+Web+Apps;Always+Learning;Creative" alt="Typing SVG" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <h3> 🌐 Connect with Me </h3>
+  <a href="https://www.instagram.com/sepia_erin/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/akash-kumar-sharma-62598b30b">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Akash211">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:akashsharma20150@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://discord.com/users/akashsharma2111">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://codolio.com/profile/Sepia_erin">
+    <img src="https://img.shields.io/badge/Codolio-%235865F2.svg?style=for-the-badge&logo=codolio&logoColor=white" alt="Discord" />
+  </a>
+  
+  
+</div>
+
+---
+
+### 💼 Work Mode On
+
+<img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="160" alt="Meme" />
+
+**About Me:**
+I'm a developer who focuses on writing clean, elegant, and efficient code. I love solving complex problems and turning creativity into software and something valuable.
+
+* 🔭 **Focus:** A complete tech skillset blending DSA, System Design, Full-Stack Development, and Data Science to build scalable, data-driven applications..
+* 🌱 **Learning:** Currently exploring Data Science and Machine Learning.
+
+<br clear="right"/>
+
+---
+
+<h3 align="center">⚔️ My Arsenal & Weapons of Choice</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" alt="tools gif" />
 </div>
 
 <div align="center">
-  <h3> 🚀 Full Stack Developer | ☕ Caffeine Connoisseur | 👾 Tech Enthusiast </h3>
-</div>
 
-<p align="center">
-  <a href="https://twitter.com/[YourTwitterHandle]">
-    <img src="https://img.shields.io/twitter/follow/[YourTwitterHandle]?style=social" alt="twitter" />
-  </a>
-  <a href="https://linkedin.com/in/[YourLinkedIn]">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="linkedin" />
-  </a>
+<h3>🗣️ Languages (The Roots)</h3>
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
----
+<h3>💅 Frontend & Styling</h3>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.dot.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+  
+</p>
 
-### 🧐 Vibe Check
+<h3>⚙️ Backend & Database</h3>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-- 🔭 **Currently working on:** Something that will hopefully change the world (or at least my portfolio).
-- 🌱 **Currently learning:** How to center a `div` without crying (and also Advanced Next.js).
-- 👯 **Looking to collaborate on:** Open Source projects and anything related to AI or Web3.
-- ⚡ **Fun fact:** I can debug code in my sleep but can't fix my sleep schedule.
+<h3>📊 Data Science & Analytics</h3>
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
 
----
+<h3>🛠️ Tools & Environment</h3>
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-### 🛠️ The Tech Stack
-
-<div align="center">
-
-| **Frontend** | **Backend** | **Tools & DevOps** |
-| :---: | :---: | :---: |
-| ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white) | ![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![NextJS](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.dot.js&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+<h3>🧠 Concepts, Career & Creative</h3>
+<p>
+  <img src="https://img.shields.io/badge/DSA-Data_Structures-FF204E?style=for-the-badge&logo=codewars&logoColor=white" />
+  <img src="https://img.shields.io/badge/System_Design-Architecture-FF6B6B?style=for-the-badge&logo=diagrams.net&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Codeolio-Portfolio-4B0082?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/After_Effects-00005B?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF" />
+</p>
 
 </div>
 
 ---
 
-### 📊 GitHub Stats (Because numbers look cool)
+### 📊 The Numbers
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="github stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top languages" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=tokyonight&hide_border=true&background=0d1117" alt="streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akashsharma211&show_icons=true&theme=graywhite&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akaashsharma211&layout=compact&theme=graywhite&hide_border=true" height="160" />
 </div>
 
 ---
 
-### 🎧 Coding Jams
+### 🤝 Let's Collaborate!
 
 <div align="center">
-  <a href="https://open.spotify.com/user/[YOUR_SPOTIFY_USER_ID]">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=[YOUR_SPOTIFY_USER_ID]&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <i>Let's connect and build something awesome!</i> 🚀<br>
-  <a href="mailto:your.email@example.com">Email Me</a>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZndXJtbjJ2OHNuZjE3ODZsbW5wemI3eWpkNTRpNWdlZjE2bmQyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="120" alt="Cat High Five" />
+  <br>
+  <p><i>Always happy to connect with fellow devs and creative minds.</i></p>
 </div>
