@@ -27,22 +27,20 @@
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://codolio.com/profile/Sepia_erin">
-    <img src="https://img.shields.io/badge/Codolio-%235865F2.svg?style=for-the-badge&logo=codolio&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Codolio-%235865F2.svg?style=for-the-badge&logo=codolio&logoColor=white" alt="Codolio" />
   </a>
-  
-  
 </div>
 
 ---
 
 ### 💼 Work Mode On
 
-<img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="160" alt="Meme" />
+<img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="160" alt="Work Mode Dog" />
 
 **About Me:**
 I'm a developer who focuses on writing clean, elegant, and efficient code. I love solving complex problems and turning creativity into software and something valuable.
 
-* 🔭 **Focus:** A complete tech skillset blending DSA, System Design, Full-Stack Development, and Data Science to build scalable, data-driven applications..
+* 🔭 **Focus:** A complete tech skillset blending DSA, System Design, Full-Stack Development, and Data Science to build scalable, data-driven applications.
 * 🌱 **Learning:** Currently exploring Data Science and Machine Learning.
 
 <br clear="right"/>
@@ -65,7 +63,7 @@ I'm a developer who focuses on writing clean, elegant, and efficient code. I lov
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-<h3>💅 Frontend & Styling</h3>
+<h3>✨ Frontend & Styling</h3>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -76,8 +74,7 @@ I'm a developer who focuses on writing clean, elegant, and efficient code. I lov
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.dot.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
 <h3>⚙️ Backend & Database</h3>
@@ -122,17 +119,39 @@ I'm a developer who focuses on writing clean, elegant, and efficient code. I lov
 </div>
 
 ---
-
-### 📊 The Numbers
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akashsharma211&show_icons=true&theme=graywhite&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akaashsharma211&layout=compact&theme=graywhite&hide_border=true" height="160" />
-</div>
-
+  <h3> 💡 Projects </h3>
+<table width="100%" align="center"> 
+  <tr>
+    <td width="50%" align="center" valign="top">
+        <a href="https://github.com/Akashsharma211/ChatZ">
+          <img src="https://github.com/user-attachments/assets/6a7ce370-c754-4fbf-8281-62d3b66561fb"width="100%" height="180" alt="Project 2" style="object-fit: cover; border radius: 6px;" />
+        </a>
+        <br />
+        <br />
+        <strong>✨ ChatZ</strong>
+        <br />
+        <sub>Real-time chat & video app with Stream API.</sub>
+        <br />
+        <br />
+    </td>
+<tl> 
+    <td width="50%" align="center" valign="top">
+        <a href="https://github.com/Akashsharma211/Pause-Distraction-v1.0">
+          <img src="https://github.com/user-attachments/assets/0b72de70-9b23-46f4-8c50-c2a84d572609"width="100%" height="180" alt="Project 2" style="object-fit: cover; border radius: 6px;" />
+        </a>
+        <br />
+        <br />
+        <strong>✨ Pause-Distraction-v1.0</strong>
+        <br />
+        <sub>Tracks time on distracting sites and notifies you with quotes when limits are reached.</sub>
+        <br />
+        <br />
+    </td>
+  </tr>
+</table>
+  
 ---
-
-### 🤝 Let's Collaborate!
 
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZndXJtbjJ2OHNuZjE3ODZsbW5wemI3eWpkNTRpNWdlZjE2bmQyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="120" alt="Cat High Five" />
