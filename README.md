@@ -106,11 +106,9 @@ I'm a developer who focuses on writing clean, elegant, and efficient code. I lov
 
 <h3>🧠 Concepts, Career & Creative</h3>
 <p>
-  <img src="https://img.shields.io/badge/DSA-Data_Structures-FF204E?style=for-the-badge&logo=codewars&logoColor=white" />
-  <img src="https://img.shields.io/badge/System_Design-Architecture-FF6B6B?style=for-the-badge&logo=diagrams.net&logoColor=white" />
-  <br>
+  <img src="https://img.shields.io/badge/DSA-FF204E?style=for-the-badge&logo=codewars&logoColor=white" />
+  <img src="https://img.shields.io/badge/System_Design-FF6B6B?style=for-the-badge&logo=diagrams.net&logoColor=white" />
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  <img src="https://img.shields.io/badge/Codeolio-Portfolio-4B0082?style=for-the-badge&logo=google-chrome&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/After_Effects-00005B?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF" />
@@ -125,7 +123,7 @@ I'm a developer who focuses on writing clean, elegant, and efficient code. I lov
   <tr>
     <td width="50%" align="center" valign="top">
         <a href="https://github.com/Akashsharma211/ChatZ">
-          <img src="https://github.com/user-attachments/assets/6a7ce370-c754-4fbf-8281-62d3b66561fb"width="100%" height="180" alt="Project 2" style="object-fit: cover; border radius: 6px;" />
+          <img src="https://github.com/user-attachments/assets/6a7ce370-c754-4fbf-8281-62d3b66561fb"width="100%" height="200" alt="Project 2" style="object-fit: cover"border radius: 6px;" />
         </a>
         <br />
         <br />
@@ -138,7 +136,7 @@ I'm a developer who focuses on writing clean, elegant, and efficient code. I lov
 <tl> 
     <td width="50%" align="center" valign="top">
         <a href="https://github.com/Akashsharma211/Pause-Distraction-v1.0">
-          <img src="https://github.com/user-attachments/assets/0b72de70-9b23-46f4-8c50-c2a84d572609"width="100%" height="180" alt="Project 2" style="object-fit: cover; border radius: 6px;" />
+          <img src="https://github.com/user-attachments/assets/0b72de70-9b23-46f4-8c50-c2a84d572609"width="100%" height="200" alt="Project 2" style="object-fit: cover"border radius: 6px;" />
         </a>
         <br />
         <br />
