@@ -135,7 +135,7 @@ I'm a developer who focuses on writing clean, elegant, and efficient code. I lov
     </td>
 <tl> 
     <td width="50%" align="center" valign="top">
-        <a href="https://github.com/Akashsharma211/Pause-Distraction-v1.0">
+        <a href="https://akashsharma211.github.io/Website-for-using-PD/">
           <img src="https://github.com/user-attachments/assets/0b72de70-9b23-46f4-8c50-c2a84d572609"width="100%" height="200" alt="Project 2" style="object-fit: cover"border radius: 6px;" />
         </a>
         <br />
