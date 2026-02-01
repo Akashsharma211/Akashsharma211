@@ -147,6 +147,18 @@ I'm a developer who focuses on writing clean, elegant, and efficient code. I lov
         <br />
     </td>
   </tr>
+   <td width="50%" align="center" valign="top">
+        <a href="https://github.com/Akashsharma211/Analysed-stocks-of-amazon">
+          <img width="256" height="256" alt="amazon-icon-41517" src="https://github.com/user-attachments/assets/926ef738-252a-43ea-b99b-3a7c6b623fde" />
+        </a>
+        <br />
+        <br />
+        <strong>✨ Amazon Stocks Analysis</strong>
+        <br />
+        <sub>Analyzed the data and made a Dashboard.</sub>
+        <br />
+        <br />
+    </td>
 </table>
   
 ---
@@ -156,3 +168,5 @@ I'm a developer who focuses on writing clean, elegant, and efficient code. I lov
   <br>
   <p><i>Always happy to connect with fellow devs and creative minds.</i></p>
 </div>
+
+
