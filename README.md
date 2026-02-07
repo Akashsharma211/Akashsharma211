@@ -38,10 +38,10 @@
 <img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="160" alt="Work Mode Dog" />
 
 **About Me:**
-I'm a developer who focuses on writing clean, elegant, and efficient code. I love solving complex problems and turning creativity into software and something valuable.
+I'm a developer who focuses on writing clean, elegant, and efficient code. I love solving complex problems and turning creativity into software that adds value to the world.
 
-* 🔭 **Focus:** A complete tech skillset blending DSA, System Design, Full-Stack Development, and Data Science to build scalable, data-driven applications.
-* 🌱 **Learning:** Currently exploring Data Science and Machine Learning.
+* 🔭 **Focus:** Blending DSA, System Design, Full-Stack Development, and Data Science to build scalable, data-driven applications.
+* 🌱 **Learning:** Currently diving deep into Machine Learning models and advanced Data Analytics.
 
 <br clear="right"/>
 
@@ -54,7 +54,7 @@ I'm a developer who focuses on writing clean, elegant, and efficient code. I lov
 
 <div align="center">
 
-<h3>🗣️ Languages (The Roots)</h3>
+<h4>🗣️ Languages</h4>
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -63,11 +63,10 @@ I'm a developer who focuses on writing clean, elegant, and efficient code. I lov
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-<h3>✨ Frontend & Styling</h3>
+<h4>✨ Frontend & Styling</h4>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <br>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <br>
@@ -77,7 +76,7 @@ I'm a developer who focuses on writing clean, elegant, and efficient code. I lov
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
-<h3>⚙️ Backend & Database</h3>
+<h4>⚙️ Backend & Database</h4>
 <p>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
@@ -85,31 +84,18 @@ I'm a developer who focuses on writing clean, elegant, and efficient code. I lov
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-<h3>📊 Data Science & Analytics</h3>
+<h4>📊 Data Science & Analytics</h4>
 <p>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
-<h3>🛠️ Tools & Environment</h3>
-<p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-<h3>🧠 Concepts, Career & Creative</h3>
+<h4>🧠 Career & Creative</h4>
 <p>
   <img src="https://img.shields.io/badge/DSA-FF204E?style=for-the-badge&logo=codewars&logoColor=white" />
-  <img src="https://img.shields.io/badge/System_Design-FF6B6B?style=for-the-badge&logo=diagrams.net&logoColor=white" />
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  <br>
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/After_Effects-00005B?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF" />
 </p>
@@ -117,56 +103,48 @@ I'm a developer who focuses on writing clean, elegant, and efficient code. I lov
 </div>
 
 ---
+
 <div align="center">
   <h3> 💡 Projects </h3>
-<table width="100%" align="center"> 
-  <tr>
-    <td width="50%" align="center" valign="top">
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center" valign="top">
         <a href="https://github.com/Akashsharma211/ChatZ">
-          <img src="https://github.com/user-attachments/assets/6a7ce370-c754-4fbf-8281-62d3b66561fb"width="100%" height="200" alt="Project 2" style="object-fit: cover"border radius: 6px;" />
+          <img src="https://github.com/user-attachments/assets/6a7ce370-c754-4fbf-8281-62d3b66561fb" width="100%" style="max-height:200px; border-radius:10px; object-fit:cover;" alt="ChatZ" />
         </a>
-        <br />
-        <br />
-        <strong>✨ ChatZ</strong>
-        <br />
+        <br /><strong>✨ ChatZ</strong><br />
         <sub>Real-time chat & video app with Stream API.</sub>
-        <br />
-        <br />
-    </td>
-<tl> 
-    <td width="50%" align="center" valign="top">
+      </td>
+      <td width="50%" align="center" valign="top">
         <a href="https://akashsharma211.github.io/Website-for-using-PD/">
-          <img src="https://github.com/user-attachments/assets/0b72de70-9b23-46f4-8c50-c2a84d572609"width="100%" height="200" alt="Project 2" style="object-fit: cover"border radius: 6px;" />
+          <img src="https://github.com/user-attachments/assets/0b72de70-9b23-46f4-8c50-c2a84d572609" width="100%" style="max-height:200px; border-radius:10px; object-fit:cover;" alt="Pause Distraction" />
         </a>
-        <br />
-        <br />
-        <strong>✨ Pause-Distraction-v1.0</strong>
-        <br />
-        <sub>Tracks time on distracting sites and notifies you with quotes when limits are reached.</sub>
-        <br />
-        <br />
-    </td>
-  </tr>
-   <td width="50%" align="center" valign="top">
+        <br /><strong>✨ Pause-Distraction-v1.0</strong><br />
+        <sub>Tracks time on distracting sites with productivity notifications.</sub>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" valign="top">
         <a href="https://github.com/Akashsharma211/Analysed-stocks-of-amazon">
-          <img width="256" height="256" alt="amazon-icon-41517" src="https://github.com/user-attachments/assets/926ef738-252a-43ea-b99b-3a7c6b623fde" />
+          <img src="https://github.com/user-attachments/assets/926ef738-252a-43ea-b99b-3a7c6b623fde" width="100%" style="max-height:200px; border-radius:10px; object-fit:cover;" alt="Amazon Stocks" />
         </a>
-        <br />
-        <br />
-        <strong>✨ Amazon Stocks Analysis</strong>
-        <br />
-        <sub>Analyzed the data and made a Dashboard.</sub>
-        <br />
-        <br />
-    </td>
-</table>
-  
+        <br /><strong>✨ Amazon Stocks Analysis</strong><br />
+        <sub>Data analysis and visualization dashboard for Amazon stocks.</sub>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <a href="https://daily-diary-hazel.vercel.app/">
+          <img src="https://github.com/user-attachments/assets/b6e3e766-8004-4988-b005-2f8a981fa7ec" width="100%" style="max-height:200px; border-radius:10px; object-fit:cover;" alt="Daily Diary" />
+        </a>
+        <br /><strong>✨ Daily Diary</strong><br />
+        <sub>AI Life Organizer is a smart diary and productivity suite designed to help users track their daily progress and mental well-being. Unlike standard journals, it leverages the power of AI to analyze your thoughts, providing constructive feedback and motivational insights.</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ---
 
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZndXJtbjJ2OHNuZjE3ODZsbW5wemI3eWpkNTRpNWdlZjE2bmQyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="120" alt="Cat High Five" />
-  <br>
-  <p><i>Always happy to connect with fellow devs and creative minds.</i></p>
+  <p><i>Always happy to connect with fellow devs and creative minds!</i></p>
 </div>
-
-
