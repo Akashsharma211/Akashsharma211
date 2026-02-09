@@ -132,11 +132,11 @@ I'm a developer who focuses on writing clean, elegant, and efficient code. I lov
         <sub>Data analysis and visualization dashboard for Amazon stocks.</sub>
       </td>
       <td width="50%" align="center" valign="top">
-        <a href="https://daily-diary-hazel.vercel.app/">
-          <img src="https://github.com/user-attachments/assets/b6e3e766-8004-4988-b005-2f8a981fa7ec" width="100%" style="max-height:200px; border-radius:10px; object-fit:cover;" alt="Daily Diary" />
+        <a href="https://key-ecru.vercel.app/">
+          <img src="https://github.com/user-attachments/assets/e0e9c556-f3a9-42b0-a8e7-d76b49c2afdf" width="100%" style="max-height:200px; border-radius:10px; object-fit:cover;" alt="Daily Diary" />
         </a>
-        <br /><strong>✨ Daily Diary</strong><br />
-        <sub>AI Life Organizer is a smart diary and productivity suite designed to help users track their daily progress and mental well-being. Unlike standard journals, it leverages the power of AI to analyze your thoughts, providing constructive feedback and motivational insights.</sub>
+        <br /><strong>✨ KEY | Optimize Your Reach</strong><br />
+        <sub>KEY is a powerful, web-based keyword generation tool designed to help content creators, marketers, and website owners improve their discoverability. Stop guessing what works and start using data-driven metadata to drive engagement on platforms like YouTube, Instagram, and the general web.</sub>
       </td>
     </tr>
   </table>
